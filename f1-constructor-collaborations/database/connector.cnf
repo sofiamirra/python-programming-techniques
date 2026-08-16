@@ -1,0 +1,6 @@
+[client]
+user=root
+password=rootroot
+host=127.0.0.1
+database=formula1
+raise_on_warnings=True
