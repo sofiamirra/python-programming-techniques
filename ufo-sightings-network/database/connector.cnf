@@ -1,0 +1,6 @@
+[client]
+user=root
+password=rootroot
+host=127.0.0.1
+database=new_ufo_sightings
+raise_on_warnings=True
